@@ -1,5 +1,7 @@
 # Hackathon Project Analysis
 
+## The final predictions is present inside dataset and all folder with name finalpred.csv
+
 ## Data Understanding and Preprocessing
 - Analyzed the dataset to comprehend the information at hand.
 - Converted non-numeric data types to machine-readable formats.
@@ -14,3 +16,4 @@
 ## Model Selection
 - Evaluated models based on ROC-AUC scores.
 - Selected logistic regression as the most suitable model for this problem.
+
