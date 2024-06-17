@@ -1,6 +1,6 @@
 # Hackathon Project Analysis
 
-## The final predictions is present inside dataset and all folder with name finalpred.csv
+### The final predictions are present inside dataset and all folder with name finalpred.csv
 
 ## Data Understanding and Preprocessing
 - Analyzed the dataset to comprehend the information at hand.
